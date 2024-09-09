@@ -7,6 +7,7 @@ This repository contains two laboratory exercises from the Robotics II: Intellig
 ## Table of Contents
 - [Lab 1: Redundant Manipulators: Path Following and Obstacle Avoidance](#lab-1-redundant-manipulators-path-following-and-obstacle-avoidance)
 - [Lab 2: Mobile Robots-Wall Following](#lab-2-mobile-robots-wall-following)
+- [Repository Structure](#repository-structure)
 
 ## Lab 1: Redundant Manipulators: Path Following and Obstacle Avoidance
 
@@ -39,3 +40,12 @@ In this lab, the goal is to develop and implement a wall-following algorithm for
 
 - Developing an obstacle-following algorithm.
 - Simulating the robot's movement around obstacles while maintaining a set distance from the walls.
+
+
+
+## Repository Structure
+
+- /src: Contains the ROS packages developed for both projects.
+- /reports: Detailed reports in PDF format explaining the theoretical analysis, algorithms, and simulation results.
+- /launch: ROS launch files to execute the simulations.
+- /simulations: Gazebo simulation worlds used for testing the algorithms.
