@@ -24,9 +24,9 @@ This repository contains two laboratory exercises from the Robotics II: Intellig
    Ensure that the cobot operates safely in environments shared with humans, respecting the constraints of speed and applied force.
 
 **Key Tasks:** 
--Implementing a kinematic control algorithm.
--Simulating the path following while avoiding obstacles using the Gazebo simulator.
--Visualizing the results and analyzing the system's performance.
+- Implementing a kinematic control algorithm.
+- Simulating the path following while avoiding obstacles using the Gazebo simulator.
+- Visualizing the results and analyzing the system's performance.
 
 
 ## Lab 2: Mobile Robots-Wall Following
