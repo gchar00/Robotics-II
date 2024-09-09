@@ -24,6 +24,7 @@ This repository contains two laboratory exercises from the Robotics II: Intellig
    Ensure that the cobot operates safely in environments shared with humans, respecting the constraints of speed and applied force.
 
 **Key Tasks:** 
+
 - Implementing a kinematic control algorithm.
 - Simulating the path following while avoiding obstacles using the Gazebo simulator.
 - Visualizing the results and analyzing the system's performance.
@@ -33,3 +34,8 @@ This repository contains two laboratory exercises from the Robotics II: Intellig
 
 **Objective:**  
 In this lab, the goal is to develop and implement a wall-following algorithm for a mobile robot. The robot should be capable of maintaining a constant distance from obstacles while navigating through an environment, using a combination of ultrasonic sensors and an Inertial Measurement Unit (IMU).
+
+**Key Tasks:**
+
+- Developing an obstacle-following algorithm.
+- Simulating the robot's movement around obstacles while maintaining a set distance from the walls.
