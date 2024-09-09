@@ -5,7 +5,7 @@
 This repository contains two laboratory exercises from the Robotics II: Intelligent Robotic Systems course during the academic year 2022-2023. 
 
 ## Table of Contents
-- [Lab 1: Redundant Manipulators: Path Following and Obstacle Avoidance](#lab-1-redundant-manipulators-path-following)
+- [Lab 1: Redundant Manipulators: Path Following and Obstacle Avoidance](#lab-1-redundant-manipulators-path-following-and-obstacle-avoidance)
 - [Lab 2: Perceptual Audio Coding](#lab-2-perceptual-audio-coding)
 
 ## Lab 1: Redundant Manipulators: Path Following and Obstacle Avoidance
