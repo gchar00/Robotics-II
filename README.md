@@ -8,7 +8,7 @@ This repository contains two laboratory exercises from the Robotics II: Intellig
 - [Lab 1: Redundant Manipulators: Path Following and Obstacle Avoidance](#lab-1-redundant-manipulators-path-following)
 - [Lab 2: Perceptual Audio Coding](#lab-2-perceptual-audio-coding)
 
-## Lab 1: Redundant Manipulators
+## Lab 1: Redundant Manipulators: Path Following and Obstacle Avoidance
 
 **Objective:**  
 1. **Kinematic Control:**  
