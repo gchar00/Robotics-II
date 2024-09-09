@@ -45,7 +45,6 @@ In this lab, the goal is to develop and implement a wall-following algorithm for
 
 ## Repository Structure
 
-- ```/src``` Contains the ROS packages developed for both projects.
-- ```/reports``` Detailed reports in PDF format explaining the theoretical analysis, algorithms, and simulation results.
+- ```/src``` or ```/scripts``` Contains the ROS packages developed for both projects.
+- ```/archives``` Contains archives packages as supplemental material for both projects
 - ```/launch``` ROS launch files to execute the simulations.
-- ```/simulations``` Gazebo simulation worlds used for testing the algorithms.
