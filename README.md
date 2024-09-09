@@ -6,7 +6,7 @@ This repository contains two laboratory exercises from the Robotics II: Intellig
 
 ## Table of Contents
 - [Lab 1: Redundant Manipulators: Path Following and Obstacle Avoidance](#lab-1-redundant-manipulators-path-following-and-obstacle-avoidance)
-- [Lab 2: Perceptual Audio Coding](#lab-2-perceptual-audio-coding)
+- [Lab 2: Mobile Robots-Wall Following](#lab-2-mobile-robots-wall-following)
 
 ## Lab 1: Redundant Manipulators: Path Following and Obstacle Avoidance
 
@@ -24,15 +24,7 @@ This repository contains two laboratory exercises from the Robotics II: Intellig
    Ensure that the cobot operates safely in environments shared with humans, respecting the constraints of speed and applied force.
 
 
-## Lab 2: Perceptual Audio Coding
+## Lab 2: Mobile Robots-Wall Following
 
 **Objective:**  
-In this lab, the goal is to compress an audio signal based on human auditory perception, focusing on critical frequency bands and psychoacoustic masking models.
-
-**Key Tasks:**
-1. **Psychoacoustic Model:**  
-   Implement a perceptual audio coding model that takes advantage of psychoacoustic phenomena to reduce the size of audio files while preserving sound quality.
-2. **Filterbank Analysis:**  
-   Use filterbanks to analyze and reconstruct the signal, compressing the audio file and maintaining minimal perceptual loss.
-
-For more details, see [DSP22_Lab2_updated.pdf](./DSP22_Lab2_updated.pdf).
+In this lab, the goal is to develop and implement a wall-following algorithm for a mobile robot. The robot should be capable of maintaining a constant distance from obstacles while navigating through an environment, using a combination of ultrasonic sensors and an Inertial Measurement Unit (IMU).
